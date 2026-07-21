@@ -1,0 +1,11 @@
+{
+  "days_to_award_mae": 11.5,
+  "award_amount_mape": 9.9,
+  "protest_prauc": 0.052,
+  "protest_rocauc": 0.504,
+  "oversight_prauc": 0.824,
+  "protest_base_rate": 0.047,
+  "n_forecast_scored": 1947,
+  "n_offices": 25,
+  "generated_from_n_historical_awards": 5000
+}
