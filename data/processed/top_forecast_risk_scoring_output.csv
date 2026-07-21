@@ -1,0 +1,16 @@
+Forecast_ID,Facility_Name,Category,Estimated_Value_Midpoint,Priority_Level,Contract_Type,Composite_Risk_Score
+FCST-000783,VISN 7 Medical Center Main,Construction,25025931.85,High,IDIQ,71.5
+FCST-000489,VISN 5 Medical Center North,Construction,22408721.04,Low,Cost Plus Fixed Fee,71.1
+FCST-001111,VISN 4 Medical Center South,Construction,12922022.62,Low,Labor Hour,70.8
+FCST-000755,VISN 12 Medical Center North,IT Services,13166642.81,Low,Firm Fixed Price,70.0
+FCST-000945,VISN 8 Medical Center North,Medical/Clinical Services,11069839.83,Low,Time and Materials,66.5
+FCST-000964,VISN 12 Medical Center Main,Medical Equipment,10535340.74,Medium,Firm Fixed Price,66.0
+FCST-001524,VISN 12 Medical Center Main,Professional Services,1833906.59,Low,Time and Materials,62.9
+FCST-000273,VISN 11 Medical Center Main,Construction,6939599.05,Low,Firm Fixed Price,62.7
+FCST-000221,VISN 2 Medical Center Main,Construction,7555981.54,High,Firm Fixed Price,62.7
+FCST-000883,VISN 3 Medical Center South,Construction,7922433.03,Low,Time and Materials,62.0
+FCST-001328,VISN 6 Medical Center North,IT Services,7519734.65,Medium,IDIQ,61.9
+FCST-000557,VISN 12 Medical Center Main,IT Services,8107590.12,High,Firm Fixed Price,61.5
+FCST-001831,VISN 14 Medical Center Main,Construction,6715624.12,Low,Firm Fixed Price,60.9
+FCST-000178,VISN 7 Medical Center Main,Professional Services,973289.45,High,Time and Materials,59.0
+FCST-001287,VISN 13 Medical Center Main,Professional Services,773589.81,Medium,Time and Materials,56.4
